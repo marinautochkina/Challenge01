@@ -100,8 +100,9 @@ GIVEN a webpage meets accessibility standards
 
     </html>
 
-## ** Changes made to the code **
-In order to satisfy the acceptance criteria, I did the following steps:
+## **Changes made to the code**
+
+In order to satisfy the *ACCEPTANCE CRITERIA*, I did the following steps:
 
 1. Looked through the starter html code and found that the code is missing some semantic elements.
 2. Added semantic elements `header`, `nav`, `main` and `footer`.
