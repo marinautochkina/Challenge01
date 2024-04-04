@@ -15,18 +15,18 @@ GIVEN a webpage meets accessibility standards
 4. WHEN I view the heading attributes THEN they fall in sequential order
 5. WHEN I view the title element THEN I find a concise, descriptive title
 
-## Starter code
+## Starter code 
 
-`<!DOCTYPE html>
-<html lang="en-us">
+    <!DOCTYPE html>
+    <html lang="en-us">
 
-<head>
-    <meta charset="UTF-8" />
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <title>website</title>
-</head>
+    <head>
+        <meta charset="UTF-8" />
+        <link rel="stylesheet" href="./assets/css/style.css">
+        <title>website</title>
+    </head>
 
-<body>
+    <body>
     <div class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
@@ -98,9 +98,13 @@ GIVEN a webpage meets accessibility standards
     </div>
 </body>
 
-</html>`
+    </html>
 
 ## ** Changes made to the code **
-1. Changed the page <title> to make it 
+In order to satisfy the acceptance criteria, I did the following steps:
 
-
+1. Looked through the starter html code and found that the code is missing some semantic elements.
+2. Added semantic elements `header`, `nav`, `main` and `footer`.
+3. Made sure that the structure of the html document is logical.
+4. Added alt attributes to all the `img` tags and title attributes to all the link, to make the web application more accessible. 
+5. Changed the page `title` to "Horiseon marketing agency" so that ir could appear more often in search engine results. 
