@@ -199,5 +199,5 @@ In order to satisfy the *ACCEPTANCE CRITERIA*, the following steps were performe
 
 ## Web page in browser
 
-![Horiseon - marketing agency](./Develop/Horiseon1.png)
-![Horiseon - marketing agency](./Develop/Horiseon2.png)
+![Horiseon - marketing agency](Horiseon1.png)
+![Horiseon - marketing agency](Horiseon2.png)
